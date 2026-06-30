@@ -73,19 +73,6 @@ userforge/
 
 ---
 
-## Push to GitHub / رفع المشروع
-
-```bash
-cd userforge
-git init
-git add .
-git commit -m "UserForge: GUI + CLI"
-git remote add origin https://github.com/USERNAME/userforge.git
-git push -u origin main
-```
-
----
-
 ## Creator / صاحب المشروع
 
 - guns.lol: https://guns.lol/SayerSix
