@@ -22,14 +22,6 @@ A 100% **offline** local generator for candidate short usernames (3–4 characte
 
 ---
 
-## What this tool does NOT do — مهم وثابت
-
-**EN:** This tool makes **zero network requests**. It is a local probability generator only — it does **not** check real availability of a username on WhatsApp or any other platform. This is intentional and permanent: automated bulk-checking against WhatsApp's servers violates their Terms of Service and can be misused to track other people's accounts/phone numbers. No version of this tool will ever add that capability.
-
-**عربي:** هذي الأداة **ما تسوي أي اتصال شبكي إطلاقًا**. هي مولّد احتمالات محلي بس — **ما** تتحقق من التوفر الفعلي لليوزر على واتساب أو أي منصة ثانية. هذا مقصود وثابت بشكل دائم: الفحص الجماعي الآلي ضد سيرفرات واتساب مخالف لشروط استخدامهم وقابل للإساءة (تتبع أرقام/حسابات أشخاص). ولا أي نسخة مستقبلية من هذي الأداة بتضيف هذي القدرة.
-
----
-
 ## Run — GUI
 <img width="1911" height="881" alt="image" src="https://github.com/user-attachments/assets/1d4efbee-0429-40d1-959c-c51acbcebc3f" />
 
