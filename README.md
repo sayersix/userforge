@@ -31,7 +31,6 @@ A 100% **offline** local generator for candidate short usernames (3–4 characte
 ---
 
 ## Run — GUI
-<img width="1911" height="881" alt="image" src="https://github.com/user-attachments/assets/2906b216-5034-4e24-867f-535c2451f25c" />
 
 ```bash
 python userforge_gui.py
