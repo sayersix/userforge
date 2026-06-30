@@ -38,6 +38,7 @@ python userforge_gui.py
 ```
 
 ## Run — CLI
+<img width="1278" height="481" alt="image" src="https://github.com/user-attachments/assets/4de201ec-fbc6-4be3-8ddf-fa9d56dd3ed8" />
 
 ```bash
 # Generate 50 pronounceable 3-char letter usernames
