@@ -2,7 +2,7 @@
 
 A 100% **offline** local generator for candidate short usernames (3–4 characters) — featuring a premium desktop GUI and a full-featured CLI, for manually checking on WhatsApp or any platform that supports short usernames.
 
-أداة محلية **بدون أي اتصال بالإنترنت** لتوليد قوائم يوزرات مرشّحة بطول 3 أو 4 أحرف — بواجهة رسومية فخمة (GUI) وواجهة سطر أوامر (CLI) كاملة، لتجربتها يدويًا داخل واتساب أو أي منصة تدعم يوزرات قصيرة.
+أداة محلية **بدون أي اتصال بالإنترنت** لتوليد قوائم يوزرات مرشّحة بطول 3 أو 4 أحرف — بواجهة رسومية فخمة (GUI) وواجهة سطر أوامر (CLI) كاملة، لتجربتها يدويًا داخل واتساب أو أي منصة تدعم يوزرات ثنائيه ثلاثيه رباعيه.
 
 ---
 
